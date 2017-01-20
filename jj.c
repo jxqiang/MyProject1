@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-	printf ("Jonathan is an idiot!\n");
+	printf ("this is a test!\n");
 	return 0;
 }
